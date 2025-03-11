@@ -128,18 +128,11 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
-## Contact
+## Project by:-
 
 For questions or feedback, please contact:  
-**Biswajit Behera
-
-Uploading lab 511.mp4…
-
-** 
-
- 
-**Email:** your.email@example.com  
-**GitHub:** [Your GitHub Profile](https://github.com/yourusername)
+**Biswajit Behera**
+**GitHub:** [Your GitHub Profile](h(https://github.com/Biswajit-Beher))
 
 ---
 
