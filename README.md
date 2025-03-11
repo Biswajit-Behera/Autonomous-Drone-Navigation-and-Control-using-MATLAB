@@ -1,9 +1,4 @@
 
-https://github.com/user-attachments/assets/4296562d-e7c6-481c-923c-434acc3f7dd0
-Here’s a sample **README.md** file for your project, **"Autonomous Drone Navigation and Control using MATLAB"**, based on the components and files you’ve described. This README provides an overview of the project, its structure, and instructions for running the simulations.
-
----
-
 # Autonomous Drone Navigation and Control using MATLAB
 
 This project focuses on simulating and testing autonomous drone navigation and control algorithms using MATLAB and Simulink. It includes various simulation models for path planning, orbit-following, waypoint navigation, and environment perception (depth and semantic segmentation). The project supports both **fixed-wing** and **multirotor** drones, with 3D animations and graphical visualizations for real-time monitoring.
